@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpixel_online_auction=self.webpackChunkpixel_online_auction||[]).push([[198],{198:e=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
+//# sourceMappingURL=198.3bbba0b0.chunk.js.map
